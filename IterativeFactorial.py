@@ -5,5 +5,3 @@ def iterative_factorial(number):
     number -= 1
 
   return result
-
-# print iterative_factorial(5)
